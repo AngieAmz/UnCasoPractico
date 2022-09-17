@@ -1,0 +1,28 @@
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\Un caso práctico.exe
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\Un caso práctico.deps.json
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\Un caso práctico.runtimeconfig.json
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\Un caso práctico.runtimeconfig.dev.json
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\Un caso práctico.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\ref\Un caso práctico.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\Un caso práctico.pdb
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.csproj.AssemblyReference.cache
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un_caso_práctico.MenuPrincipal.resources
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.csproj.GenerateResource.cache
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.AssemblyInfoInputs.cache
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.AssemblyInfo.cs
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.csproj.CoreCompileInputs.cache
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\ref\Un caso práctico.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.pdb
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.genruntimeconfig.cache
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un_caso_práctico.Login.resources
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un_caso_práctico.user.resources
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un_caso_práctico.Properties.Resources.resources
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Angie\source\repos\Un caso práctico\Un caso práctico\obj\Debug\net5.0-windows\Un caso práctico.csproj.CopyComplete
